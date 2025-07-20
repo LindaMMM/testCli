@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+cots/pkg_test/__init__.py
+cots/pkg_test/printme.py
+remotecommand/__init__.py
+remotecommand/__main__.py
+remotecommand.egg-info/PKG-INFO
+remotecommand.egg-info/SOURCES.txt
+remotecommand.egg-info/dependency_links.txt
+remotecommand.egg-info/entry_points.txt
+remotecommand.egg-info/requires.txt
+remotecommand.egg-info/top_level.txt
+remotecommand/cli/__init__.py
+remotecommand/cli/main.py
+remotecommand/cli/remotecommad.py
+remotecommand/cli/tests/main.py

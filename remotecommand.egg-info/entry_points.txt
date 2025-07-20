@@ -1,0 +1,2 @@
+[console_scripts]
+remotecommandsend = remotecommand.__main__:main
